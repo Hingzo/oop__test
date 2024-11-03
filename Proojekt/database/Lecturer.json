@@ -1,0 +1,92 @@
+[
+ {
+  "ID":"GV100",
+  "name":"Darrick Doey",
+  "email":"DarrickDoey@ueh.edu.vn",
+  "gender":"Male",
+  "phone number":"+84 2404736478",
+  "date of birth":"8\/31\/1987",
+  "Department":"Psychology",
+  "Education":"Ph.D"
+ },
+ {
+  "ID":"GV101",
+  "name":"Emmey Lohden",
+  "email":"EmmeyLohden@ueh.edu.vn",
+  "gender":"Female",
+  "phone number":"+84 7664380548",
+  "date of birth":"9\/16\/1991",
+  "Department":"Computer Science",
+  "Education":"ThS"
+ },
+ {
+  "ID":"GV102",
+  "name":"Moritz Grasner",
+  "email":"MoritzGrasner@ueh.edu.vn",
+  "gender":"Male",
+  "phone number":"+84 4516874559",
+  "date of birth":"5\/26\/1998",
+  "Department":"Business Administration",
+  "Education":"ThS"
+ },
+ {
+  "ID":"GV103",
+  "name":"Inger Roycraft",
+  "email":"IngerRoycraft@ueh.edu.vn",
+  "gender":"Female",
+  "phone number":"+84 4143857744",
+  "date of birth":"10\/6\/1996",
+  "Department":"Business Administration",
+  "Education":"Ph.D"
+ },
+ {
+  "ID":"GV104",
+  "name":"Trev Leibold",
+  "email":"TrevLeibold@ueh.edu.vn",
+  "gender":"Male",
+  "phone number":"+84 8741959226",
+  "date of birth":"10\/16\/1998",
+  "Department":"Psychology",
+  "Education":"Ph.D"
+ },
+ {
+  "ID":"GV106",
+  "name":"Riley Quinn",
+  "email":"RileyQuinn@ueh.edu.vn",
+  "gender":"Female",
+  "phone number":"+84 1234567890",
+  "date of birth":"4\/15\/1990",
+  "Department":"Computer Science",
+  "Education":"MBA"
+ },
+ {
+  "ID":"GV107",
+  "name":"Noah Carter",
+  "email":"NoahCarter@ueh.edu.vn",
+  "gender":"Male",
+  "phone number":"+84 9876543211",
+  "date of birth":"7\/7\/1995",
+  "Department":"Psychology",
+  "Education":"MA"
+ },
+ {
+  "ID":"GV108",
+  "name":"Ava Lee",
+  "email":"AvaLee@ueh.edu.vn",
+  "gender":"Female",
+  "phone number":"+84 1234567891",
+  "date of birth":"2\/14\/1992",
+  "Department":"Computer Science",
+  "Education":"PhD"
+ },
+ {
+  "ID":"GV109",
+  "name":"Ethan Mitchell",
+  "email":"EthanMitchell@ueh.edu.vn",
+  "gender":"Male",
+  "phone number":"+84 9876543212",
+  "date of birth":"3\/10\/1997",
+  "Department":"Psychology",
+  "Education":"MFA"
+ }
+]
