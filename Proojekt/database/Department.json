@@ -1,0 +1,38 @@
+{
+ "Computer Science":{
+  "Classes":[
+   "CS001",
+   "CS002",
+   "CS003"
+  ],
+  "Courses":[
+   "Artificial Intelligence and Machine Learning",
+   "Database Management Systems",
+   "Web Development and Cloud Computing"
+  ]
+ },
+ "Business Administration":{
+  "Classes":[
+   "BA001",
+   "BA002",
+   "BA003"
+  ],
+  "Courses":[
+   "Digital Marketing and E-Commerce",
+   "Strategic Management",
+   "Entrepreneurship and Innovation"
+  ]
+ },
+ "Psychology":{
+  "Classes":[
+   "PS001",
+   "PS002",
+   "PS003"
+  ],
+  "Courses":[
+   "Cognitive Psychology",
+   "Clinical Psychology and Counseling",
+   "Psychology of Learning and Behavior"
+  ]
+ }
+}
