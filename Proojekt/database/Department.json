@@ -1,11 +1,11 @@
 [
- {
-  "DepartmentID":1,
-  "DepartmentName":"Business Administration"
- },
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "Computer Science"
+  },
   {
     "DepartmentID": 2,
-    "DepartmentName":"Computer Science"
+    "DepartmentName":"Business Administration"
   },
  {
   "DepartmentID":3,

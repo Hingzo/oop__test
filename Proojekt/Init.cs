@@ -18,6 +18,20 @@ namespace projekt
         public static List<MajorClass> classes = new List<MajorClass>();
 
         public static Random rnd = new Random();
+        public static DateTime GetDateTimeFromJson(JsonElement element, string propertyName)
+        {
+            if (element.TryGetProperty(propertyName, out JsonElement birthdayElement) &&
+                birthdayElement.ValueKind == JsonValueKind.Number)
+            {
+                long timestamp = birthdayElement.GetInt64();
+                DateTime date = DateTimeOffset.FromUnixTimeMilliseconds(timestamp).DateTime;
+
+                return date;
+            }
+            throw new ArgumentException($"Property '{propertyName}' not found or not a valid timestamp.");
+        }
+
+
         public static void Read()
         {
 
@@ -86,13 +100,14 @@ namespace projekt
                 JsonElement root = doc.RootElement;
                 foreach (JsonElement element in root.EnumerateArray())
                 {
-                    MajorClass clas = new MajorClass
+                    MajorClass clas = new MajorClass 
+                        (departmentID: element.GetProperty("DepartmentID").GetInt16(),
+                        departmentName: element.GetProperty("DepartmentName").GetString())
                     {
-                        DepartmentID = element.GetProperty("DepartmentID").GetInt16(),
-                        DepartmentName = element.GetProperty("DepartmentName").GetString(),
                         ID = element.GetProperty("ID").GetString(),
                         students = new List<Student>()
                     };
+
 
                     foreach (Student student in students)
                     {
@@ -111,10 +126,9 @@ namespace projekt
                 int i = 0; 
                 foreach(JsonElement element in root.EnumerateArray())
                 {
-                    Course course = new Course
+                    Course course = new Course(departmentID: element.GetProperty("DepartmentID").GetInt16(),
+                        departmentName: element.GetProperty("DepartmentName").GetString())
                     {
-                        DepartmentID = element.GetProperty("DepartmentID").GetInt16(),
-                        DepartmentName = element.GetProperty("DepartmentName").GetString(),
                         CourseCode = element.GetProperty("CourseCode").GetString(),
                         CourseName = element.GetProperty("CourseName").GetString(),
                         Lecturer = lecturers[i],
@@ -133,10 +147,9 @@ namespace projekt
                 JsonElement root = doc.RootElement;
                 foreach (JsonElement element in root.EnumerateArray())
                 {
-                    Department department = new Department
+                    Department department = new Department(departmentID: element.GetProperty("DepartmentID").GetInt16(),
+                        departmentName: element.GetProperty("DepartmentName").GetString())
                     {
-                        DepartmentID = element.GetProperty("DepartmentID").GetInt16(),
-                        DepartmentName = element.GetProperty("DepartmentName").GetString(),
                         MajorClasses = new List<MajorClass>(),
                         CourseOffered = new List<Course>(),
                         Lecturers = new List<Lecturer>()
