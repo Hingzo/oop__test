@@ -1,0 +1,47 @@
+[
+ {
+  "ID":"CS001",
+  "DepartmentID":1,
+  "DepartmentName":"Computer Science"
+ },
+ {
+  "ID":"CS002",
+  "DepartmentID":1,
+  "DepartmentName":"Computer Science"
+ },
+ {
+  "ID":"CS003",
+  "DepartmentID":1,
+  "DepartmentName":"Computer Science"
+ },
+ {
+  "ID":"BA001",
+  "DepartmentID":2,
+  "DepartmentName":"Business Administration"
+ },
+ {
+  "ID":"BA002",
+  "DepartmentID":2,
+  "DepartmentName":"Business Administration"
+ },
+ {
+  "ID":"BA003",
+  "DepartmentID":2,
+  "DepartmentName":"Business Administration"
+ },
+ {
+  "ID":"PS001",
+  "DepartmentID":3,
+  "DepartmentName":"Psychology"
+ },
+ {
+  "ID":"PS002",
+  "DepartmentID":3,
+  "DepartmentName":"Psychology"
+ },
+ {
+  "ID":"PS003",
+  "DepartmentID":3,
+  "DepartmentName":"Psychology"
+ }
+]

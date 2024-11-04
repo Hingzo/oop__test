@@ -1,0 +1,164 @@
+[
+ {
+  "CourseCode":"LO9935",
+  "CourseName":"Digital Marketing and E-Commerce",
+  "Lecturer":{
+   "ID":"GV102",
+   "Name":"Moritz Grasner",
+   "Email":"MoritzGrasner@ueh.edu.vn",
+   "PhoneNumber":"+84 4516874559",
+   "Bday":"5\/26\/1998",
+   "Gender":"Male",
+   "Department":"Business Administration",
+   "Education":"ThS"
+  },
+  "Start":"2025-08-30",
+  "End":"2025-11-01",
+  "DepartmentID":2,
+  "DepartmentName":"Business Administration"
+ },
+ {
+  "CourseCode":"OU5685",
+  "CourseName":"Strategic Management",
+  "Lecturer":{
+   "ID":"GV103",
+   "Name":"Inger Roycraft",
+   "Email":"IngerRoycraft@ueh.edu.vn",
+   "PhoneNumber":"+84 4143857744",
+   "Bday":"10\/6\/1996",
+   "Gender":"Female",
+   "Department":"Business Administration",
+   "Education":"Ph.D"
+  },
+  "Start":"2025-08-30",
+  "End":"2025-11-01",
+  "DepartmentID":2,
+  "DepartmentName":"Business Administration"
+ },
+ {
+  "CourseCode":"TW4876",
+  "CourseName":"Entrepreneurship and Innovation",
+  "Lecturer":{
+   "ID":"GV107",
+   "Name":"Noah Carter",
+   "Email":"NoahCarter@ueh.edu.vn",
+   "PhoneNumber":"+84 9876543211",
+   "Bday":"7\/7\/1995",
+   "Gender":"Male",
+   "Department":"Business Administration",
+   "Education":"MA"
+  },
+  "Start":"2025-08-30",
+  "End":"2025-11-01",
+  "DepartmentID":2,
+  "DepartmentName":"Business Administration"
+ },
+ {
+  "CourseCode":"TK2463",
+  "CourseName":"Artificial Intelligence and Machine Learning",
+  "Lecturer":{
+   "ID":"GV101",
+   "Name":"Emmey Lohden",
+   "Email":"EmmeyLohden@ueh.edu.vn",
+   "PhoneNumber":"+84 7664380548",
+   "Bday":"9\/16\/1991",
+   "Gender":"Female",
+   "Department":"Computer Science",
+   "Education":"ThS"
+  },
+  "Start":"2025-08-30",
+  "End":"2025-11-01",
+  "DepartmentID":1,
+  "DepartmentName":"Computer Science"
+ },
+ {
+  "CourseCode":"JP8848",
+  "CourseName":"Database Management Systems",
+  "Lecturer":{
+   "ID":"GV106",
+   "Name":"Riley Quinn",
+   "Email":"RileyQuinn@ueh.edu.vn",
+   "PhoneNumber":"+84 1234567890",
+   "Bday":"4\/15\/1990",
+   "Gender":"Female",
+   "Department":"Computer Science",
+   "Education":"MBA"
+  },
+  "Start":"2025-08-30",
+  "End":"2025-11-01",
+  "DepartmentID":1,
+  "DepartmentName":"Computer Science"
+ },
+ {
+  "CourseCode":"ET5760",
+  "CourseName":"Web Development and Cloud Computing",
+  "Lecturer":{
+   "ID":"GV108",
+   "Name":"Ava Lee",
+   "Email":"AvaLee@ueh.edu.vn",
+   "PhoneNumber":"+84 1234567891",
+   "Bday":"2\/14\/1992",
+   "Gender":"Female",
+   "Department":"Computer Science",
+   "Education":"PhD"
+  },
+  "Start":"2025-08-30",
+  "End":"2025-11-01",
+  "DepartmentID":1,
+  "DepartmentName":"Computer Science"
+ },
+ {
+  "CourseCode":"BO3170",
+  "CourseName":"Cognitive Psychology",
+  "Lecturer":{
+   "ID":"GV100",
+   "Name":"Darrick Doey",
+   "Email":"DarrickDoey@ueh.edu.vn",
+   "PhoneNumber":"+84 2404736478",
+   "Bday":"8\/31\/1987",
+   "Gender":"Male",
+   "Department":"Psychology",
+   "Education":"Ph.D"
+  },
+  "Start":"2025-08-30",
+  "End":"2025-11-01",
+  "DepartmentID":3,
+  "DepartmentName":"Psychology"
+ },
+ {
+  "CourseCode":"BO8478",
+  "CourseName":"Clinical Psychology and Counseling",
+  "Lecturer":{
+   "ID":"GV104",
+   "Name":"Trev Leibold",
+   "Email":"TrevLeibold@ueh.edu.vn",
+   "PhoneNumber":"+84 8741959226",
+   "Bday":"10\/16\/1998",
+   "Gender":"Male",
+   "Department":"Psychology",
+   "Education":"Ph.D"
+  },
+  "Start":"2025-08-30",
+  "End":"2025-11-01",
+  "DepartmentID":3,
+  "DepartmentName":"Psychology"
+ },
+ {
+  "CourseCode":"KY6156",
+  "CourseName":"Psychology of Learning and Behavior",
+  "Lecturer":{
+   "ID":"GV109",
+   "Name":"Ethan Mitchell",
+   "Email":"EthanMitchell@ueh.edu.vn",
+   "PhoneNumber":"+84 9876543212",
+   "Bday":"3\/10\/1997",
+   "Gender":"Male",
+   "Department":"Psychology",
+   "Education":"MFA"
+  },
+  "Start":"2025-08-30",
+  "End":"2025-11-01",
+  "DepartmentID":3,
+  "DepartmentName":"Psychology"
+ }
+]

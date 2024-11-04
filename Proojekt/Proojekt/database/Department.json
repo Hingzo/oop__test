@@ -1,0 +1,14 @@
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "Computer Science"
+  },
+  {
+    "DepartmentID": 2,
+    "DepartmentName":"Business Administration"
+  },
+ {
+  "DepartmentID":3,
+  "DepartmentName":"Psychology"
+ }
+]
