@@ -1,0 +1,383 @@
+[
+  {
+    "DepartmentID": 1,
+    "DepartmentName": "Computer Science",
+    "CourseOffered": [
+      {
+        "CourseCode": "TK2463",
+        "CourseName": "Artificial Intelligence and Machine Learning",
+        "Lecturer": {
+          "Department": "Computer Science",
+          "Education": "ThS",
+          "ID": "GV101",
+          "Name": "Emmey Lohden",
+          "Email": "EmmeyLohden@ueh.edu.vn",
+          "PhoneNumber": "\u002B84 7664380548",
+          "Bday": "1988-02-28",
+          "Gender": "Female"
+        },
+        "Start": "2025-08-30T00:00:00",
+        "End": "2025-11-01T00:00:00",
+        "DepartmentID": 1,
+        "DepartmentName": "Computer Science",
+        "CourseOffered": null,
+        "Lecturers": null,
+        "MajorClasses": null
+      },
+      {
+        "CourseCode": "JP8848",
+        "CourseName": "Database Management Systems",
+        "Lecturer": {
+          "Department": "Computer Science",
+          "Education": "MBA",
+          "ID": "GV106",
+          "Name": "Riley Quinn",
+          "Email": "RileyQuinn@ueh.edu.vn",
+          "PhoneNumber": "\u002B84 1234567890",
+          "Bday": "1988-02-28",
+          "Gender": "Female"
+        },
+        "Start": "2025-08-30T00:00:00",
+        "End": "2025-11-01T00:00:00",
+        "DepartmentID": 1,
+        "DepartmentName": "Computer Science",
+        "CourseOffered": null,
+        "Lecturers": null,
+        "MajorClasses": null
+      },
+      {
+        "CourseCode": "ET5760",
+        "CourseName": "Web Development and Cloud Computing",
+        "Lecturer": {
+          "Department": "Computer Science",
+          "Education": "PhD",
+          "ID": "GV108",
+          "Name": "Ava Lee",
+          "Email": "AvaLee@ueh.edu.vn",
+          "PhoneNumber": "\u002B84 1234567891",
+          "Bday": "1988-02-28",
+          "Gender": "Female"
+        },
+        "Start": "2025-08-30T00:00:00",
+        "End": "2025-11-01T00:00:00",
+        "DepartmentID": 1,
+        "DepartmentName": "Computer Science",
+        "CourseOffered": null,
+        "Lecturers": null,
+        "MajorClasses": null
+      }
+    ],
+    "Lecturers": [
+      {
+        "Department": "Computer Science",
+        "Education": "ThS",
+        "ID": "GV101",
+        "Name": "Emmey Lohden",
+        "Email": "EmmeyLohden@ueh.edu.vn",
+        "PhoneNumber": "\u002B84 7664380548",
+        "Bday": "1988-02-28",
+        "Gender": "Female"
+      },
+      {
+        "Department": "Computer Science",
+        "Education": "MBA",
+        "ID": "GV106",
+        "Name": "Riley Quinn",
+        "Email": "RileyQuinn@ueh.edu.vn",
+        "PhoneNumber": "\u002B84 1234567890",
+        "Bday": "1988-02-28",
+        "Gender": "Female"
+      },
+      {
+        "Department": "Computer Science",
+        "Education": "PhD",
+        "ID": "GV108",
+        "Name": "Ava Lee",
+        "Email": "AvaLee@ueh.edu.vn",
+        "PhoneNumber": "\u002B84 1234567891",
+        "Bday": "1988-02-28",
+        "Gender": "Female"
+      }
+    ],
+    "MajorClasses": [
+      {
+        "ID": "CS001",
+        "DepartmentID": 1,
+        "DepartmentName": "Computer Science",
+        "CourseOffered": null,
+        "Lecturers": null,
+        "MajorClasses": null
+      },
+      {
+        "ID": "CS002",
+        "DepartmentID": 1,
+        "DepartmentName": "Computer Science",
+        "CourseOffered": null,
+        "Lecturers": null,
+        "MajorClasses": null
+      },
+      {
+        "ID": "CS003",
+        "DepartmentID": 1,
+        "DepartmentName": "Computer Science",
+        "CourseOffered": null,
+        "Lecturers": null,
+        "MajorClasses": null
+      }
+    ]
+  },
+  {
+    "DepartmentID": 2,
+    "DepartmentName": "Business Administration",
+    "CourseOffered": [
+      {
+        "CourseCode": "LO9935",
+        "CourseName": "Digital Marketing and E-Commerce",
+        "Lecturer": {
+          "Department": "Business Administration",
+          "Education": "ThS",
+          "ID": "GV102",
+          "Name": "Moritz Grasner",
+          "Email": "MoritzGrasner@ueh.edu.vn",
+          "PhoneNumber": "\u002B84 4516874559",
+          "Bday": "1988-02-28",
+          "Gender": "Male"
+        },
+        "Start": "2025-08-30T00:00:00",
+        "End": "2025-11-01T00:00:00",
+        "DepartmentID": 2,
+        "DepartmentName": "Business Administration",
+        "CourseOffered": null,
+        "Lecturers": null,
+        "MajorClasses": null
+      },
+      {
+        "CourseCode": "OU5685",
+        "CourseName": "Strategic Management",
+        "Lecturer": {
+          "Department": "Business Administration",
+          "Education": "Ph.D",
+          "ID": "GV103",
+          "Name": "Inger Roycraft",
+          "Email": "IngerRoycraft@ueh.edu.vn",
+          "PhoneNumber": "\u002B84 4143857744",
+          "Bday": "1988-02-28",
+          "Gender": "Female"
+        },
+        "Start": "2025-08-30T00:00:00",
+        "End": "2025-11-01T00:00:00",
+        "DepartmentID": 2,
+        "DepartmentName": "Business Administration",
+        "CourseOffered": null,
+        "Lecturers": null,
+        "MajorClasses": null
+      },
+      {
+        "CourseCode": "TW4876",
+        "CourseName": "Entrepreneurship and Innovation",
+        "Lecturer": {
+          "Department": "Business Administration",
+          "Education": "MA",
+          "ID": "GV107",
+          "Name": "Noah Carter",
+          "Email": "NoahCarter@ueh.edu.vn",
+          "PhoneNumber": "\u002B84 9876543211",
+          "Bday": "1988-02-28",
+          "Gender": "Male"
+        },
+        "Start": "2025-08-30T00:00:00",
+        "End": "2025-11-01T00:00:00",
+        "DepartmentID": 2,
+        "DepartmentName": "Business Administration",
+        "CourseOffered": null,
+        "Lecturers": null,
+        "MajorClasses": null
+      }
+    ],
+    "Lecturers": [
+      {
+        "Department": "Business Administration",
+        "Education": "ThS",
+        "ID": "GV102",
+        "Name": "Moritz Grasner",
+        "Email": "MoritzGrasner@ueh.edu.vn",
+        "PhoneNumber": "\u002B84 4516874559",
+        "Bday": "1988-02-28",
+        "Gender": "Male"
+      },
+      {
+        "Department": "Business Administration",
+        "Education": "Ph.D",
+        "ID": "GV103",
+        "Name": "Inger Roycraft",
+        "Email": "IngerRoycraft@ueh.edu.vn",
+        "PhoneNumber": "\u002B84 4143857744",
+        "Bday": "1988-02-28",
+        "Gender": "Female"
+      },
+      {
+        "Department": "Business Administration",
+        "Education": "MA",
+        "ID": "GV107",
+        "Name": "Noah Carter",
+        "Email": "NoahCarter@ueh.edu.vn",
+        "PhoneNumber": "\u002B84 9876543211",
+        "Bday": "1988-02-28",
+        "Gender": "Male"
+      }
+    ],
+    "MajorClasses": [
+      {
+        "ID": "BA001",
+        "DepartmentID": 2,
+        "DepartmentName": "Business Administration",
+        "CourseOffered": null,
+        "Lecturers": null,
+        "MajorClasses": null
+      },
+      {
+        "ID": "BA002",
+        "DepartmentID": 2,
+        "DepartmentName": "Business Administration",
+        "CourseOffered": null,
+        "Lecturers": null,
+        "MajorClasses": null
+      },
+      {
+        "ID": "BA003",
+        "DepartmentID": 2,
+        "DepartmentName": "Business Administration",
+        "CourseOffered": null,
+        "Lecturers": null,
+        "MajorClasses": null
+      }
+    ]
+  },
+  {
+    "DepartmentID": 3,
+    "DepartmentName": "Psychology",
+    "CourseOffered": [
+      {
+        "CourseCode": "BO3170",
+        "CourseName": "Cognitive Psychology",
+        "Lecturer": {
+          "Department": "Psychology",
+          "Education": "Ph.D",
+          "ID": "GV100",
+          "Name": "Darrick Doey",
+          "Email": "DarrickDoey@ueh.edu.vn",
+          "PhoneNumber": "\u002B84 2404736478",
+          "Bday": "1988-02-28",
+          "Gender": "Male"
+        },
+        "Start": "2025-08-30T00:00:00",
+        "End": "2025-11-01T00:00:00",
+        "DepartmentID": 3,
+        "DepartmentName": "Psychology",
+        "CourseOffered": null,
+        "Lecturers": null,
+        "MajorClasses": null
+      },
+      {
+        "CourseCode": "BO8478",
+        "CourseName": "Clinical Psychology and Counseling",
+        "Lecturer": {
+          "Department": "Psychology",
+          "Education": "Ph.D",
+          "ID": "GV104",
+          "Name": "Trev Leibold",
+          "Email": "TrevLeibold@ueh.edu.vn",
+          "PhoneNumber": "\u002B84 8741959226",
+          "Bday": "1988-02-28",
+          "Gender": "Male"
+        },
+        "Start": "2025-08-30T00:00:00",
+        "End": "2025-11-01T00:00:00",
+        "DepartmentID": 3,
+        "DepartmentName": "Psychology",
+        "CourseOffered": null,
+        "Lecturers": null,
+        "MajorClasses": null
+      },
+      {
+        "CourseCode": "KY6156",
+        "CourseName": "Psychology of Learning and Behavior",
+        "Lecturer": {
+          "Department": "Psychology",
+          "Education": "MFA",
+          "ID": "GV109",
+          "Name": "Ethan Mitchell",
+          "Email": "EthanMitchell@ueh.edu.vn",
+          "PhoneNumber": "\u002B84 9876543212",
+          "Bday": "1988-02-28",
+          "Gender": "Male"
+        },
+        "Start": "2025-08-30T00:00:00",
+        "End": "2025-11-01T00:00:00",
+        "DepartmentID": 3,
+        "DepartmentName": "Psychology",
+        "CourseOffered": null,
+        "Lecturers": null,
+        "MajorClasses": null
+      }
+    ],
+    "Lecturers": [
+      {
+        "Department": "Psychology",
+        "Education": "Ph.D",
+        "ID": "GV100",
+        "Name": "Darrick Doey",
+        "Email": "DarrickDoey@ueh.edu.vn",
+        "PhoneNumber": "\u002B84 2404736478",
+        "Bday": "1988-02-28",
+        "Gender": "Male"
+      },
+      {
+        "Department": "Psychology",
+        "Education": "Ph.D",
+        "ID": "GV104",
+        "Name": "Trev Leibold",
+        "Email": "TrevLeibold@ueh.edu.vn",
+        "PhoneNumber": "\u002B84 8741959226",
+        "Bday": "1988-02-28",
+        "Gender": "Male"
+      },
+      {
+        "Department": "Psychology",
+        "Education": "MFA",
+        "ID": "GV109",
+        "Name": "Ethan Mitchell",
+        "Email": "EthanMitchell@ueh.edu.vn",
+        "PhoneNumber": "\u002B84 9876543212",
+        "Bday": "1988-02-28",
+        "Gender": "Male"
+      }
+    ],
+    "MajorClasses": [
+      {
+        "ID": "PS001",
+        "DepartmentID": 3,
+        "DepartmentName": "Psychology",
+        "CourseOffered": null,
+        "Lecturers": null,
+        "MajorClasses": null
+      },
+      {
+        "ID": "PS002",
+        "DepartmentID": 3,
+        "DepartmentName": "Psychology",
+        "CourseOffered": null,
+        "Lecturers": null,
+        "MajorClasses": null
+      },
+      {
+        "ID": "PS003",
+        "DepartmentID": 3,
+        "DepartmentName": "Psychology",
+        "CourseOffered": null,
+        "Lecturers": null,
+        "MajorClasses": null
+      }
+    ]
+  }
+]

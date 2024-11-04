@@ -20,6 +20,11 @@ namespace projekt
         public List<Course> CourseOffered { get; set; }
         public List<Lecturer> Lecturers { get; set; }
         public List<MajorClass> MajorClasses { get; set; }
+        public Department(int departmentID, string departmentName)
+        {
+            DepartmentID = departmentID;
+            DepartmentName = departmentName;
+        }
     }
 
 }

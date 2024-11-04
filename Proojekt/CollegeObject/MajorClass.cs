@@ -14,5 +14,7 @@ namespace projekt
         /// </summary>
         public string ID { get; set; }
         public List<Student> students = new List<Student>();
+        public MajorClass(int departmentID, string departmentName)
+        : base(departmentID, departmentName) { }
     }
 }

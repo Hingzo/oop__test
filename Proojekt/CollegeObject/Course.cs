@@ -17,6 +17,8 @@ namespace projekt
         public Lecturer Lecturer { get; set; }
         public DateTime Start { get; set; }
         public DateTime End { get; set; }
+        public Course(int departmentID, string departmentName)
+        : base(departmentID, departmentName) { }
 
     }
 }
