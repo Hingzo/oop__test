@@ -1,15 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using projekt;
 
-namespace projekt
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-        }
-    }
-}
+
+
+Init.Read();
+
+Init.students[36].DisplayInfo();
+
+Console.WriteLine("");
+Console.WriteLine(Init.departments[2].DepartmentName);
+Console.WriteLine("");
+Console.WriteLine(Init.departments[0].CourseOffered[1].CourseName);
+Console.WriteLine("");
+Console.WriteLine(Init.departments[2].MajorClasses[1].ID);
+Console.WriteLine("");
+Init.departments[1].MajorClasses[2].students[0].DisplayInfo();

@@ -9,11 +9,10 @@ namespace projekt
     public class Student: Human
     {
         public string Major { get; set; }
-        public int Year { get; set; }
         public double GPA { get; set; }
         public string SchoolYear { get; set; }
 
-        public List<string> classID = new List<string>();
+        public string ClassID { get; set; }
 
         public override void DisplayInfo()
         {
@@ -22,7 +21,6 @@ namespace projekt
             Console.WriteLine($"Email: {Email}");
             Console.WriteLine($"Phone: {PhoneNumber}");
             Console.WriteLine($"Major: {Major}");
-            Console.WriteLine($"Year: {Year}");
             Console.WriteLine($"GPA: {GPA}");
         }
     }

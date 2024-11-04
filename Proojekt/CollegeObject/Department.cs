@@ -10,47 +10,16 @@ namespace projekt
 {
     public class Department
     {
-        public string DepartmentID { get; set; }
+        /// <summary>
+        /// Khoa, vd Khoa BIT, Ngân hàng,...
+        /// Trong một Khoa sẽ có nhiều giảng viên cùng tham gia giảng dạy
+        /// có nhiều Lớp Học trục thuộc và các Học Phần tương ứng
+        /// </summary>
+        public int DepartmentID { get; set; }
         public string DepartmentName { get; set; }
-        private List<Course> CourseOffered { get; set; }
-        private List<Lecturer> Lecturers { get; set; }
-        private List<MajorClass> MajorClasses { get; set; }
-
-        public void AddCourse(Course course)
-        {
-            if (this.CourseOffered.Contains(course)) {  return; }
-            this.CourseOffered.Add(course); 
-        }
-        //Courses
-        public void RemoveCourse(Course course)
-        {
-            if (!this.CourseOffered.Contains(course)) { return; }
-            this.CourseOffered.Remove(course);
-        }
-        //Lecturers
-        public void AddLecturer(Lecturer lecturer)
-        {
-            if (this.Lecturers.Contains(lecturer)) { return; }
-            this.Lecturers.Add(lecturer);
-        }
-
-        public void RemoveLecturer(Lecturer lecturer)
-        {
-            if (!this.Lecturers.Contains(lecturer)) { return; }
-            this.Lecturers.Remove(lecturer);
-        }
-        //Classes
-        public void AddClass(MajorClass majorclass)
-        {
-            if (this.MajorClasses.Contains(majorclass)) { return; }
-            this.MajorClasses.Add(majorclass);
-        }
-
-        public void RemoveClass(MajorClass majorclass)
-        {
-            if (!this.MajorClasses.Contains(majorclass)) { return; }
-            this.MajorClasses.Remove(majorclass);
-        }
+        public List<Course> CourseOffered { get; set; }
+        public List<Lecturer> Lecturers { get; set; }
+        public List<MajorClass> MajorClasses { get; set; }
     }
 
 }

@@ -9,7 +9,6 @@ namespace projekt
     public class Lecturer: Human
     {
         public string Department { get; set; }
-        public string OfficeNumber { get; set; }
         public string Education { get; set; }
 
         public override void DisplayInfo()
@@ -19,7 +18,6 @@ namespace projekt
             Console.WriteLine($"Email: {Email}");
             Console.WriteLine($"Phone: {PhoneNumber}");
             Console.WriteLine($"Department: {Department}");
-            Console.WriteLine($"Office Number: {OfficeNumber}");
         }
     }
 }
