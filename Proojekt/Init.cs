@@ -18,20 +18,6 @@ namespace projekt
         public static List<MajorClass> classes = new List<MajorClass>();
 
         public static Random rnd = new Random();
-        public static DateTime GetDateTimeFromJson(JsonElement element, string propertyName)
-        {
-            if (element.TryGetProperty(propertyName, out JsonElement birthdayElement) &&
-                birthdayElement.ValueKind == JsonValueKind.Number)
-            {
-                long timestamp = birthdayElement.GetInt64();
-                DateTime date = DateTimeOffset.FromUnixTimeMilliseconds(timestamp).DateTime;
-
-                return date;
-            }
-            throw new ArgumentException($"Property '{propertyName}' not found or not a valid timestamp.");
-        }
-
-
         public static void Read()
         {
 
