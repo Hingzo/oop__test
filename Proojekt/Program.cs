@@ -22,4 +22,4 @@ JsonSerializerOptions options = new JsonSerializerOptions { WriteIndented=true};
 string json = JsonSerializer.Serialize(Init.departments, options);
 
 //Console.WriteLine(json);
-File.WriteAllText("M:\\Projekt\\Proojekt\\tempdb_struct.json", json);
+//File.WriteAllText("M:\\Projekt\\Proojekt\\tempdb_struct.json", json);
