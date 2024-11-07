@@ -1,0 +1,26 @@
+[
+ {
+  "DepartmentID":"1",
+  "ClassID":"HR002"
+ },
+ {
+  "DepartmentID":"1",
+  "ClassID":"HR001"
+ },
+ {
+  "DepartmentID":"2",
+  "ClassID":"IT002"
+ },
+ {
+  "DepartmentID":"2",
+  "ClassID":"IT001"
+ },
+ {
+  "DepartmentID":"3",
+  "ClassID":"IB002"
+ },
+ {
+  "DepartmentID":"3",
+  "ClassID":"IB001"
+ }
+]

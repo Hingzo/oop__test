@@ -1,0 +1,29 @@
+C:\Users\WIN'DADDY\source\repos\dead\dead\bin\Debug\net6.0\dead.exe
+C:\Users\WIN'DADDY\source\repos\dead\dead\bin\Debug\net6.0\dead.deps.json
+C:\Users\WIN'DADDY\source\repos\dead\dead\bin\Debug\net6.0\dead.runtimeconfig.json
+C:\Users\WIN'DADDY\source\repos\dead\dead\bin\Debug\net6.0\dead.dll
+C:\Users\WIN'DADDY\source\repos\dead\dead\bin\Debug\net6.0\dead.pdb
+C:\Users\WIN'DADDY\source\repos\dead\dead\obj\Debug\net6.0\dead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN'DADDY\source\repos\dead\dead\obj\Debug\net6.0\dead.AssemblyInfoInputs.cache
+C:\Users\WIN'DADDY\source\repos\dead\dead\obj\Debug\net6.0\dead.AssemblyInfo.cs
+C:\Users\WIN'DADDY\source\repos\dead\dead\obj\Debug\net6.0\dead.csproj.CoreCompileInputs.cache
+C:\Users\WIN'DADDY\source\repos\dead\dead\obj\Debug\net6.0\dead.dll
+C:\Users\WIN'DADDY\source\repos\dead\dead\obj\Debug\net6.0\refint\dead.dll
+C:\Users\WIN'DADDY\source\repos\dead\dead\obj\Debug\net6.0\dead.pdb
+C:\Users\WIN'DADDY\source\repos\dead\dead\obj\Debug\net6.0\dead.genruntimeconfig.cache
+C:\Users\WIN'DADDY\source\repos\dead\dead\obj\Debug\net6.0\ref\dead.dll
+C:\Users\QUANG PHUC\Desktop\temp\dead\dead\obj\Debug\net6.0\dead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QUANG PHUC\Desktop\temp\dead\dead\obj\Debug\net6.0\dead.AssemblyInfoInputs.cache
+C:\Users\QUANG PHUC\Desktop\temp\dead\dead\obj\Debug\net6.0\dead.AssemblyInfo.cs
+C:\Users\QUANG PHUC\Desktop\temp\dead\dead\obj\Debug\net6.0\dead.csproj.CoreCompileInputs.cache
+C:\Users\QUANG PHUC\Desktop\temp\dead\dead\obj\Debug\net6.0\dead.sourcelink.json
+C:\Users\QUANG PHUC\Desktop\temp\dead\dead\obj\Debug\net6.0\dead.dll
+C:\Users\QUANG PHUC\Desktop\temp\dead\dead\obj\Debug\net6.0\refint\dead.dll
+C:\Users\QUANG PHUC\Desktop\temp\dead\dead\obj\Debug\net6.0\dead.pdb
+C:\Users\QUANG PHUC\Desktop\temp\dead\dead\bin\Debug\net6.0\dead.exe
+C:\Users\QUANG PHUC\Desktop\temp\dead\dead\bin\Debug\net6.0\dead.deps.json
+C:\Users\QUANG PHUC\Desktop\temp\dead\dead\bin\Debug\net6.0\dead.runtimeconfig.json
+C:\Users\QUANG PHUC\Desktop\temp\dead\dead\bin\Debug\net6.0\dead.dll
+C:\Users\QUANG PHUC\Desktop\temp\dead\dead\bin\Debug\net6.0\dead.pdb
+C:\Users\QUANG PHUC\Desktop\temp\dead\dead\obj\Debug\net6.0\dead.genruntimeconfig.cache
+C:\Users\QUANG PHUC\Desktop\temp\dead\dead\obj\Debug\net6.0\ref\dead.dll

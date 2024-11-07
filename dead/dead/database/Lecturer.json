@@ -1,0 +1,92 @@
+[
+ {
+  "ID":"GV102",
+  "Name":"Moritz Grasner",
+  "Email":"MoritzGrasner@ueh.edu.vn",
+  "PhoneNumber":"+84 4516874559",
+  "Birthday":"1988-02-28",
+  "Gender":"Male",
+  "DepartmentID":"1",
+  "Education":"ThS"
+ },
+ {
+  "ID":"GV103",
+  "Name":"Inger Roycraft",
+  "Email":"IngerRoycraft@ueh.edu.vn",
+  "PhoneNumber":"+84 4143857744",
+  "Birthday":"1988-02-28",
+  "Gender":"Female",
+  "DepartmentID":"1",
+  "Education":"Ph.D"
+ },
+ {
+  "ID":"GV107",
+  "Name":"Noah Carter",
+  "Email":"NoahCarter@ueh.edu.vn",
+  "PhoneNumber":"+84 9876543211",
+  "Birthday":"1988-02-28",
+  "Gender":"Male",
+  "DepartmentID":"1",
+  "Education":"MA"
+ },
+ {
+  "ID":"GV101",
+  "Name":"Emmey Lohden",
+  "Email":"EmmeyLohden@ueh.edu.vn",
+  "PhoneNumber":"+84 7664380548",
+  "Birthday":"1988-02-28",
+  "Gender":"Female",
+  "DepartmentID":"2",
+  "Education":"ThS"
+ },
+ {
+  "ID":"GV106",
+  "Name":"Riley Quinn",
+  "Email":"RileyQuinn@ueh.edu.vn",
+  "PhoneNumber":"+84 1234567890",
+  "Birthday":"1988-02-28",
+  "Gender":"Female",
+  "DepartmentID":"2",
+  "Education":"MBA"
+ },
+ {
+  "ID":"GV108",
+  "Name":"Ava Lee",
+  "Email":"AvaLee@ueh.edu.vn",
+  "PhoneNumber":"+84 1234567891",
+  "Birthday":"1988-02-28",
+  "Gender":"Female",
+  "DepartmentID":"2",
+  "Education":"PhD"
+ },
+ {
+  "ID":"GV100",
+  "Name":"Darrick Doey",
+  "Email":"DarrickDoey@ueh.edu.vn",
+  "PhoneNumber":"+84 2404736478",
+  "Birthday":"1988-02-28",
+  "Gender":"Male",
+  "DepartmentID":"3",
+  "Education":"Ph.D"
+ },
+ {
+  "ID":"GV104",
+  "Name":"Trev Leibold",
+  "Email":"TrevLeibold@ueh.edu.vn",
+  "PhoneNumber":"+84 8741959226",
+  "Birthday":"1988-02-28",
+  "Gender":"Male",
+  "DepartmentID":"3",
+  "Education":"Ph.D"
+ },
+ {
+  "ID":"GV109",
+  "Name":"Ethan Mitchell",
+  "Email":"EthanMitchell@ueh.edu.vn",
+  "PhoneNumber":"+84 9876543212",
+  "Birthday":"1988-02-28",
+  "Gender":"Male",
+  "DepartmentID":"3",
+  "Education":"MFA"
+ }
+]
